@@ -3,5 +3,6 @@
 ### Labs
 - [x] Lab00
 ### Homeworks
+- [x] HW01
 ### Projects
 ### Exams
